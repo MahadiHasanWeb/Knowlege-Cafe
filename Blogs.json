@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover_img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
+    "title": "the journey to minimalism",
+    "author": "emma wilson",
+    "author_img": "https://images.unsplash.com/photo-1734126801303-06da3e3f2db6?q=80&w=995&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "posted_date": "2024-12-20",
+    "reading_time": 5,
+    "hashtags": ["#minimalism", "#lifestyle", "#mindfulness"]
+  },
+  {
+    "id": "2",
+    "cover_img": "https://plus.unsplash.com/premium_photo-1669068929564-0e913f753e81?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "mastering the art of coding",
+    "author": "alex smith",
+    "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "posted_date": "2024-12-19",
+    "reading_time": 7,
+    "hashtags": ["#coding", "#programming", "#webdevelopment"]
+  },
+  {
+    "id": "3",
+    "cover_img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "title": "exploring the depths of the ocean",
+    "author": "sophia brown",
+    "author_img": "https://images.unsplash.com/photo-1525253086316-d0c936c814f8",
+    "posted_date": "2024-12-18",
+    "reading_time": 10,
+    "hashtags": ["#ocean", "#nature", "#adventure"]
+  },
+  {
+    "id": "4",
+    "cover_img": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
+    "title": "photography for beginners",
+    "author": "liam taylor",
+    "author_img": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce",
+    "posted_date": "2024-12-17",
+    "reading_time": 4,
+    "hashtags": ["#photography", "#creativity", "#tips"]
+  },
+  {
+    "id": "5",
+    "cover_img": "https://images.unsplash.com/photo-1729816081224-a5b0e7f2b855?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "a guide to healthy eating",
+    "author": "olivia davis",
+    "author_img": "https://images.unsplash.com/photo-1524503033411-c9566986fc8f",
+    "posted_date": "2024-12-16",
+    "reading_time": 6,
+    "hashtags": ["#health", "#nutrition", "#lifestyle"]
+  }
+]
