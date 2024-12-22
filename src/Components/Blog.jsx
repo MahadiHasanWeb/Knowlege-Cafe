@@ -23,25 +23,27 @@ const Blog = ({ blog }) => {
             alt="Author Image"
             className="rounded-full w-12 h-12"
           />
-          <div className="mx-4">
-            <p className="">{author}</p>
-            <p className="text-xl">{posted_date}</p>
+          <div className="mx-4 ">
+            <p className="text-xl md:text-2xl">{author}</p>
+            <p className="text-base md:text-xl">{posted_date}</p>
           </div>
         </div>
         <div className="flex gap-2 items-center">
-          <div className="text-xl">{reading_time} min read</div>
+          <div className="text-base md:text-xl">{reading_time} min read</div>
           <button>
             <CiBookmark />
           </button>
         </div>
       </div>
-      <h2 className="text-4xl my-3">{title}</h2>
-      {hashtags.map((hash, idx) => (
-        <span className="me-3" key={idx}>
-          <a href="">{hash}</a>
-        </span>
-      ))}
-      <button className="text-xl my-7 underline text-[#6047EC]">
+      <h2 className="md:text-4xl my-3">{title}</h2>
+      <p className="md:flex gap-4 me-10 text-xl md:text-2xl">
+        {hashtags.map((hash, idx) => (
+          <span key={idx}>
+            <button className="">{hash}</button>
+          </span>
+        ))}
+      </p>
+      <button className="text-base md:text-xl my-7 underline text-[#6047EC]">
         Mark as read
       </button>
       <hr />
